@@ -100,3 +100,4 @@ PowerBoard v2 serves as a laboratory platform for:
 - Measurement and data acquisition  
 
 ---
+This README was written by ChatGPT from OpenAI
